@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Gemini Embedding 001",
+      "tensorShape": [
+        5,
+        3072
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/InesNDuarte/embedgen_test/main/embedgen-data/2026-04-16_17-11-02-gemini-gemini-embedding-001/tensors.bytes",
+      "metadataPath": "https://raw.githubusercontent.com/InesNDuarte/embedgen_test/main/embedgen-data/2026-04-16_17-11-02-gemini-gemini-embedding-001/metadata.tsv"
+    }
+  ]
+}
